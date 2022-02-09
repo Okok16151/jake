@@ -1,0 +1,144 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "beep",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Hey little guy! Where are you from?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "fin"
+		},
+		{
+			"expression": "talking",
+			"text": "We saw a purple demon guy kick you two midgets out of a portal",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jake"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep boop",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep Bop",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "think",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.06,
+			"portrait": "fin"
+		},
+		{
+			"expression": "think",
+			"text": "You gonna use real words or...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "fin"
+		},
+		{
+			"expression": "confused",
+			"text": "Kind of a long story really",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "think",
+			"text": "I see",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "fin"
+		},
+		{
+			"expression": "pissed",
+			"text": "Boop Bop Beep",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "think",
+			"text": "We can't understand you man",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "fin"
+		},
+		{
+			"expression": "confused",
+			"text": "He's challenging you to a rap battle to assert his dominance",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "pissed",
+			"text": "Boop",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "think",
+			"text": "A rap battle...?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "fin"
+		},
+		{
+			"expression": "talking",
+			"text": "You should do it man!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jake"
+		},
+		{
+			"expression": "talk",
+			"text": "We had nothing to do today anyways",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jake"
+		},
+		{
+			"expression": "think",
+			"text": "I don't have a mic though",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "fin"
+		},
+		{
+			"expression": "mic",
+			"text": "You never need anything when your bro is around!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jake"
+		},
+		{
+			"expression": "excited",
+			"text": "Ok then! Let's do it!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "fin"
+		},
+		{
+			"expression": "confused",
+			"text": "hoo boy here we go",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		}
+	]
+}
