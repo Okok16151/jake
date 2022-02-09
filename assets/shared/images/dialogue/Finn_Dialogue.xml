@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Finn_Dialogue.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="FINN_EXCITED0000" x="0" y="0" width="398" height="466"/>
+	<SubTexture name="FINN_EXCITED0001" x="398" y="0" width="398" height="466"/>
+	<SubTexture name="FINN_EXCITED_LOOP0000" x="796" y="0" width="404" height="478"/>
+	<SubTexture name="FINN_EXCITED_LOOP0001" x="1200" y="0" width="404" height="478"/>
+	<SubTexture name="FINN_EXCITED_LOOP0002" x="1604" y="0" width="404" height="478"/>
+	<SubTexture name="FINN_EXCITED_LOOP0003" x="2008" y="0" width="404" height="478"/>
+	<SubTexture name="FINN_EXCITED_LOOP0004" x="2412" y="0" width="404" height="478"/>
+	<SubTexture name="FINN_EXCITED_LOOP0005" x="2816" y="0" width="404" height="478"/>
+	<SubTexture name="FINN_GLAD0000" x="3220" y="0" width="343" height="466"/>
+	<SubTexture name="FINN_GLAD0001" x="3563" y="0" width="343" height="466"/>
+	<SubTexture name="FINN_GLAD_LOOP0000" x="0" y="478" width="343" height="478"/>
+	<SubTexture name="FINN_GLAD_LOOP0001" x="343" y="478" width="343" height="478"/>
+	<SubTexture name="FINN_GLAD_LOOP0002" x="686" y="478" width="343" height="478"/>
+	<SubTexture name="FINN_GLAD_LOOP0003" x="1029" y="478" width="343" height="478"/>
+	<SubTexture name="FINN_GLAD_LOOP0004" x="1372" y="478" width="343" height="478"/>
+	<SubTexture name="FINN_GLAD_LOOP0005" x="1715" y="478" width="343" height="478"/>
+	<SubTexture name="FINN_THINK0000" x="2058" y="478" width="343" height="466"/>
+	<SubTexture name="FINN_THINK0001" x="2401" y="478" width="343" height="466"/>
+	<SubTexture name="FINN_THINK_LOOP0000" x="2744" y="478" width="343" height="478"/>
+	<SubTexture name="FINN_THINK_LOOP0001" x="3087" y="478" width="343" height="478"/>
+	<SubTexture name="FINN_THINK_LOOP0002" x="3430" y="478" width="343" height="478"/>
+	<SubTexture name="FINN_THINK_LOOP0003" x="0" y="956" width="343" height="478"/>
+	<SubTexture name="FINN_THINK_LOOP0004" x="343" y="956" width="343" height="478"/>
+	<SubTexture name="FINN_THINK_LOOP0005" x="686" y="956" width="343" height="478"/>
+</TextureAtlas>

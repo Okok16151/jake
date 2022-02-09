@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Jake_Dialogue.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="jake_idle0000" x="0" y="0" width="265" height="314"/>
+	<SubTexture name="jake_idle0001" x="265" y="0" width="265" height="314"/>
+	<SubTexture name="jake_idle0002" x="530" y="0" width="265" height="314"/>
+	<SubTexture name="jake_idle0003" x="795" y="0" width="265" height="314"/>
+	<SubTexture name="jake_idle0004" x="1060" y="0" width="265" height="314"/>
+	<SubTexture name="jake_idle0005" x="1325" y="0" width="265" height="314"/>
+	<SubTexture name="jake_mic0000" x="1590" y="0" width="218" height="339"/>
+	<SubTexture name="jake_mic0001" x="1808" y="0" width="218" height="339"/>
+	<SubTexture name="jake_mic0002" x="0" y="339" width="218" height="339"/>
+	<SubTexture name="jake_mic0003" x="218" y="339" width="218" height="339"/>
+	<SubTexture name="jake_mic0004" x="436" y="339" width="218" height="339"/>
+	<SubTexture name="jake_mic0005" x="654" y="339" width="218" height="339"/>
+</TextureAtlas>
