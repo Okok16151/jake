@@ -1,0 +1,37 @@
+{
+	"position": [
+		180,
+		150
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "Jake_Dialogue",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talking",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "jake_idle",
+			"idle_name": "jake_idle0006"
+		},
+		{
+			"loop_name": "jake_mic",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "jake_mic0006",
+			"anim": "mic",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}

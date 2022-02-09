@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		80,
+		-20
+	],
+	"scale": 1.45,
+	"animations": [
+		{
+			"loop_name": "FINN_GLAD_LOOP",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "FINN_GLAD_LOOP0005",
+			"anim": "glad",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "FINN_EXCITED_LOOP",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "FINN_EXCITED_LOOP0005",
+			"anim": "excited",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "FINN_THINK_LOOP",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "FINN_THINK_LOOP0005",
+			"anim": "think",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "Finn_Dialogue"
+}
